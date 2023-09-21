@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "326466455731",
+    "firebase_url": "https://guaridanwatch-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "guaridanwatch",
+    "storage_bucket": "guaridanwatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326466455731:android:1d62c64e8c17b3a52748c6",
+        "android_client_info": {
+          "package_name": "com.example.bluetooth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pLgUyJcfGp507BDYPJ7q7IGRgeNiZtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
